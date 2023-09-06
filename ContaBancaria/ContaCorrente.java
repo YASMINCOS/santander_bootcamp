@@ -1,3 +1,4 @@
+package ContaBancaria;
 class ContaCorrente extends ContaBancariaBase {
     private double limiteChequeEspecial;
 
